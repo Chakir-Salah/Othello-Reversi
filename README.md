@@ -11,4 +11,4 @@ Remarques:
 
 5) Je crois que ces algorithmes peuvent être implémentés d'une manière plus optimale . Et j'aurai le plaisir de recevoir des e-mail de votre part qui proposent des améliorations (mon adresse électronique chakir.salah99@gmail.com).
 
-J'espère que le projet et clair d'une manière à vous aider à  réaliser votre propre version du jeu Othello Reversi.
+J'espère que le projet est clair d'une manière à vous aider à  réaliser votre propre version du jeu Othello Reversi.
